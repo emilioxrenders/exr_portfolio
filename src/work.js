@@ -23,7 +23,7 @@ class Work extends Component {
       </Grid>
 
       <Grid container item xs={12} sm={12} justify="center" alignItems="center">
-      <Grid item xs={5} sm={3}><Progress done="35"/></Grid> <Grid item xs={4} sm={2}><p className="workskill">Material-ui</p></Grid>
+      <Grid item xs={5} sm={3}><Progress done="40"/></Grid> <Grid item xs={4} sm={2}><p className="workskill">Material-ui</p></Grid>
       </Grid>
 
       <Grid container item xs={12} sm={12} justify="center" alignItems="center">
