@@ -10,7 +10,7 @@ class About extends Component {
 
         <Box>
         <p className="aboutdescription">I’m a 21 year old web designer & front-end developer located in Tilburg.
-        I enjoy making clean and minimalistic looking websites and am always ready to learn new things.
+        I enjoy creating clean and minimalistic looking websites and I'm always ready to learn new things.
         Apart from front-end development, I'm also capable of translating problems into solutions and have experience with Scrum.
         </p>
         </Box>
