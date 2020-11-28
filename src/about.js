@@ -6,7 +6,7 @@ class About extends Component {
   render() {
     return (
       <Box className="aboutcontent">
-        <h2>Hi, I'm Emilio. Nice to meet you.</h2>
+        <h1>Hi, I'm Emilio. Nice to meet you.</h1>
 
         <Box>
         <p className="aboutdescription">I’m a 21 year old web designer & front-end developer located in Tilburg.
