@@ -11,7 +11,7 @@ class Work extends Component {
       <Grid container item xs={12} sm={12} style={{height:"78vh", marginBottom:"12vh"}} spacing={0}>
 
       <Grid container item xs={12} sm={12} justify="center" alignItems="center">
-      <Grid item xs={5} sm={3}><Progress done="50"/></Grid> <Grid item xs={4} sm={2}><p className="workskill">React</p></Grid>
+      <Grid item xs={5} sm={3}><Progress done="55"/></Grid> <Grid item xs={4} sm={2}><p className="workskill">React</p></Grid>
       </Grid>
 
       <Grid container item xs={12} sm={12} justify="center" alignItems="center">
@@ -23,7 +23,7 @@ class Work extends Component {
       </Grid>
 
       <Grid container item xs={12} sm={12} justify="center" alignItems="center">
-      <Grid item xs={5} sm={3}><Progress done="40"/></Grid> <Grid item xs={4} sm={2}><p className="workskill">Material-ui</p></Grid>
+      <Grid item xs={5} sm={3}><Progress done="50"/></Grid> <Grid item xs={4} sm={2}><p className="workskill">Material-ui</p></Grid>
       </Grid>
 
       <Grid container item xs={12} sm={12} justify="center" alignItems="center">
@@ -73,7 +73,7 @@ class Work extends Component {
        <Grid item xs={12} sm={4}>
        <Card style={{backgroundColor: "#606060", borderRadius:'20px'}} className="workproject">
        <h2 className="cardh2font">Material-ui</h2>
-       <p className="cardpfont">While working with React I've used Material-ui for styling and for the grid functionality</p>
+       <p className="cardpfont">While working with React I've used Material-ui for styling and for the grid functionality.</p>
        </Card>
        </Grid>
       </Grid>

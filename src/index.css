@@ -78,7 +78,7 @@ p{
 }
 
 .homecontainer{
-  background-image: url(./pictures/background2.jpg);
+  background-image: url(./pictures/background.jpg);
   height:90vh;
   background-position: center center;
   justify-content: flex-end;
