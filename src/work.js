@@ -8,6 +8,7 @@ class Work extends Component {
 
       <Box className="workcontent">
 
+      {/* Progressbar */}
       <Grid container item xs={12} sm={12} style={{height:"78vh", marginBottom:"12vh"}} spacing={0}>
 
       <Grid container item xs={12} sm={12} justify="center" alignItems="center">
@@ -40,8 +41,10 @@ class Work extends Component {
 
       </Grid>
 
+      {/* Footer */}
       <Grid container className="footer" item xs={12} justify="center" style={{position:"absolute", bottom:"0", color:"white", height:"2.5rem", fontSize:"1.4vw", width:"100%", marginLeft:'-20px'}}> <a>\/</a> </Grid>
 
+      {/* Progressbar explenation cards */}
       <Grid container direction="row" justify="space-evenly" justify="center" alignItems="flex-start" alignItems="center" spacing={4} className="cardwrap">
       <Grid item xs={12} sm={4}>
       <Card style={{backgroundColor: "#606060", borderRadius:'20px'}} className="workproject">

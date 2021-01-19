@@ -1,5 +1,7 @@
 import React from 'react';
 
+//Javascript code for the progressbar
+//Done is a variable that can be given when imported to show how much of the bar is loaded
 const Progress = ({done}) => {
 	const [style, setStyle] = React.useState({});
 
